@@ -5,6 +5,9 @@
 - My favorite repositories:\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-azure-form-recognizer&theme=tokyonight)](https://github.com/ChungNYCU/react-azure-form-recognizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-github-issues-checker&theme=tokyonight)](https://github.com/ChungNYCU/react-github-issues-checker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=LinguaPhrase&theme=tokyonight)](https://github.com/ChungNYCU/LinguaPhrase)
+
+
 - Skills:\
 ![My Skills](https://skillicons.dev/icons?i=azure,cs,dotnet,aws,py,kubernetes,docker,git,linux,nodejs,js,ts,react,nextjs,html,css,&perline=9)
 - GitHub stats:\
