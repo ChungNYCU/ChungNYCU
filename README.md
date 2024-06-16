@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+developer;Growth+mindset;Looking+for+an+opportunity)
 - 👋 Hi, I’m @ChungNYCU
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React, k8s
+- 🌱 I’m currently KQL and fine-tuning open-source LLMs
 - My favorite repositories:\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-azure-form-recognizer&theme=tokyonight)](https://github.com/ChungNYCU/react-azure-form-recognizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-github-issues-checker&theme=tokyonight)](https://github.com/ChungNYCU/react-github-issues-checker)
