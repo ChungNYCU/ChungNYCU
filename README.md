@@ -4,6 +4,7 @@
 - 🌱 I’m currently KQL and fine-tuning open-source LLMs
 - My favorite repositories:\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-azure-form-recognizer&theme=tokyonight)](https://github.com/ChungNYCU/react-azure-form-recognizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-native-gpt-japanese-tutor&theme=tokyonight)](https://github.com/ChungNYCU/react-native-gpt-japanese-tutor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=react-github-issues-checker&theme=tokyonight)](https://github.com/ChungNYCU/react-github-issues-checker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChungNYCU&repo=LinguaPhrase&theme=tokyonight)](https://github.com/ChungNYCU/LinguaPhrase)
 
